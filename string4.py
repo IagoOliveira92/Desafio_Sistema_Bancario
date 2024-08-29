@@ -14,7 +14,7 @@ print(mensagem)
 print("""
     ========== MEU MENU ==========
     1 - Fugir
-    2 - Morrer
+    2 - correr
     3 - Reiniciar a vida
     ==============================
             Volte sempre!

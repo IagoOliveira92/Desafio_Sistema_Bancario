@@ -1,10 +1,10 @@
-nome = "IAGO LUCIAN DE JESUS OLIVEIRA"
+nome = "IAGO"
 
 print(nome.upper())
 print(nome.lower())
 print(nome.title())
 
-texto = "  Salve o corinthians"
+texto = "  Salve o timão"
 print(texto.strip() + "." )
 print(texto.rstrip()+ ".")
 print(texto.lstrip()+ ".")
