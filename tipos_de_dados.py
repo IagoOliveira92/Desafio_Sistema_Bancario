@@ -1,0 +1,11 @@
+print(1 + 5)
+print(1.5 * 2)
+print("Python")
+print(True)
+print(False)
+
+int()
+float()
+complex()
+str()
+bool()
